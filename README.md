@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Son</h1>
-<h3 align="center">A passionate frontend and embedded developer from VietNam</h3>
+<h3 align="center">A passionate embedded C/C++ & LINUX developer from VietNam</h3>
 
 - 🔭 I’m currently working on **ESC**
 
