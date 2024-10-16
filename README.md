@@ -2,13 +2,13 @@
 <h3 align="center">A passionate embedded C/C++ & LINUX developer from VietNam</h3>
 
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **ML** and **Angular**
 
 - 💬 Ask me about **C, C++, Embedded**
 
 - 📫 How to reach me **heozuize51@gmail.com**
 
-- ⚡ Fun fact **I think I am seriously**
+- ⚡ Fun fact **I think I am ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
